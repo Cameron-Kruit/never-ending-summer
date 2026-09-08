@@ -1,3 +1,27 @@
+Game idea: you pick locations for your costume resources. Every time your time counter is + 1
+there is one night till halloween so if you don't make it you get an ending without celebration
+
+Locations to choose:
+forest -> animal hide (A)
+household store -> fabric (B, C)
+school -> sharpie (C)
+library -> data (C)
+shoe maker -> thread (A, B)
+Dentist -> teeth (B)
+
+Branching:
+
+main -> A wolf, B vampire, C Ghost
+
+endings:
+Jimbo died
+Wolf party
+Vampire party
+ghost party
+no costumes
+
+--------------------------------------
+
 Roles in sewer society:
 Artisan - focuses on engineering, crafting, repairs, etc. Doesn't venture outside.
 Student - focuses on knowledge from the old world. Rarely ventures outside for artifacts and data. Everyone is a student till a certain age, but dedicated students just learn more stuff.

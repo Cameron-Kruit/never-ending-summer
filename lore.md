@@ -15,5 +15,6 @@ Many nights we've theorized about the state of the world, and our history teache
 In preserving memory of humanity, our teacher failed his own memory. None of us can remember the names of our teachers. Many can't even remember our parents.
 To figure out how to survive in this hostile world, all the adults, and most of the older kids have sacrificed themselves. The lives we now live is built upon their trial and error.
 When Armageddon first came 5 years ago, we had 20 students and 3 teachers. Now there's only 11-... 10 of us left... The eldest is 20. The youngest is 5, being left behind by one of the older kids who died.
-We go out at night for supplies, but most of our lives are spent in the sewers. Nature seems to have adapted to the new climate, so we have enough out there to hunt and harvest, but it's not without its perils... So far our world has expended to the size of a town. Venture out beyond its border, and the sun shall find a way to stop you.
+We go out at night for supplies, but most of our lives are spent in the sewers. We used to be able to venture out pretty far underground when we were getting set up, but our resources have been far less luxurious since many tunnels have since collapsed.
+Nature seems to have adapted to the new climate, so we have enough out there to hunt and harvest, but it's not without its perils... So far our world has expended to the size of a town. Venture out beyond its border, and the sun shall find a way to stop you.
 Sometimes, the price of survival is the life of a friend...
