@@ -122,4 +122,6 @@ Alex(andria) - female - 20yo - Elder - pale - responsible adult, some memories o
 
 Jimbo - male - 5yo - just a kid - pale - born to one of the dead "older kids", adopted by Alexandria. Sneaks off to join on adventures cause he looks up to the scouts and want to fill the shows of Adam.
 
+Doris - female - 18yo - Scout - tan - DEAD
+
 Lore accurately there are 3 more characters who are not relevant to the story. I'll assume these are 1 more student, 1 more artisan, 1 more hunter
