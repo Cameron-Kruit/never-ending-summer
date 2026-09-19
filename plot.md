@@ -95,7 +95,7 @@ Sewers elder's quarters
 Sewers artisans quarters
 Sewers exit
 
-BEFORE TIMES FLASHBACK
+BEFORE TIMES FLASHBACK (art as children's drawing)
 Summer school
 Armageddon
 Fleeing to/hiding in sewers
