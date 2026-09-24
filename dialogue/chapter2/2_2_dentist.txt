@@ -1,0 +1,7 @@
+// art dentist
+
+* You and your party make your way to the local dentist's office in search for loot. *
+
+// check if path_choice = 1, then navigate to 2_2_A_dentist
+// check if path_choice = 2, then navigate to 2_2_B_dentist
+// check if path_choice = 3, then navigate to 2_2_C_dentist

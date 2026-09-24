@@ -1,0 +1,7 @@
+// art forest
+
+* You and your party make your way into the forest, hoping to run into what you are looking for. *
+
+// check if path_choice = 1, then navigate to 2_2_A_forest
+// check if path_choice = 2, then navigate to 2_2_B_forest
+// check if path_choice = 3, then navigate to 2_2_C_forest

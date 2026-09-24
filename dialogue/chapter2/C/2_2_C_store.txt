@@ -1,0 +1,29 @@
+// theme:  what the world is built on
+
+Scott : Lucia, welcome to my favorite place in the world.
+
+Lucia : This seems to be a household items store.
+
+Scott : Exactly.
+
+Lucia : Mmmm... Okay... Yes. I see the appeal. A lot of items here tell a story about the old world. Many small gadgets which mean nothing to us yet, but when studied, could help us recover some of our old technological capabilities.
+
+Scott : I mean, yeah sure, but it's more so that this place makes for some very easy supply runs. Places like these often have everything we need bunched together. We can just grab what we need and then hang out for most of the night.
+
+Lucia : This is really what you do? You really just "hang out" sometimes? I kinda figured you guys were like risking your lives all the time.
+
+Scott : Don't get me wrong, we are... Anything could happen at any time as we know...
+
+Lucia : Yeah...
+
+Scott : Actually Doris one time said "Too much adventure will get you killed, but too little will make you die of boredom"... I think that captures the spirit of our supply runs very well... I mean we're not Cartographers. We get what people need and come home before the sun rises.
+
+Lucia : Haha... That does sound like her. Alright, then let's not adventure ourselves into any trouble and just get what we came here for.
+
+* You find some fabric and take it with you. *
+
+Scott : Alright, [user] has the fabric. Let's bounce.
+
+// var went_to_store = 1
+
+// jump to 2_1_map

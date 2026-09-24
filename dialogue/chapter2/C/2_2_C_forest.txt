@@ -1,0 +1,32 @@
+// theme: relationship between nature and the world
+
+Lucia : Uhhh... Guys... I'm quite scared...
+
+Scott : It's okay, Lucia. We're not too far from the school here.
+
+Lucia : It's so dark... What if there are any ghost or vampires around here?
+
+Scott : It's not too bad right now. Usually it's a lot darker. Thankfully we're having a full moon tonight.
+
+Lucia : A full moon?! There's gonna be w-werewolves!
+
+// play wolf sound
+
+Lucia : AHH!! EEK!
+
+Scott : Hey! Let go of me! Those are just normal wolves. This is pretty much there home.
+
+Lucia : Oh okay... Normal wolves... What?! AH! We need to get out of here!
+
+Scott : Don't worry, Lucia. Wolves don't want to get involved with us for no reason. Nature is not scary, when you learn how to live alongside it. There are no monsters out here, just thing we understand and things we don't understand.
+
+Lucia : I see. If you put it like that, I'd say my fear is not that much different from curiosity... Being a Student, I don't come out a lot. But if I open myself to learn about things like this, I don't feel so afraid anymore... Just eager to learn even more.
+
+Scott : Maybe that's what people in the old world realized too. Halloween... Facing horrors and fear willingly...
+
+Lucia : There are no monsters out here, just thing we understand and things we don't understand... Maybe dressing up and acting like monsters helps us understand the things we fear and thus the monsters disappear...
+
+Scott : Maybe... Either way, I don't feel like we're going to run into a ghost here anytime soon... What should we do, [user]?
+
+// var went_to_forest = 1
+// present choices: stay here (this will lead to the dead Jimbo ending), move on (jump to 2_1_map)

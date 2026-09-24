@@ -1,0 +1,105 @@
+* You hear a strange rustling in the bushes *
+
+Lucia : EEK! AH! I told you there w-were w-werewolves!
+
+Scott : Stay quiet and low... We'll take care of this...
+
+* Scott pulls a bowie knife out of a pouch from his backpack. *
+
+Scott : What should we do, [anon]?
+
+// present choice: wait, run, attack
+
+// -------------------------------------
+
+// path: wait
+
+Scott : Alright... Nobody move...
+
+* You and the rest wait in suspense as the rustling draws closer. *
+
+Jimbo : Hi guys!
+
+Lucia : Jimbo?...
+
+Scott : This little squirt...
+You shouldn't be outside you know? It's way too dangerous!
+
+Jimbo : I wanted to come play with you guys. I've never been outside before.
+
+Scott : Being outside is for grown ups. You should get back. We're not that far from the sewers.
+
+Jimbo : Not fair!
+
+Scott : This world really isn't...
+
+Lucia : Hey Jimbo, if you go home now, I'll read you stories of the old world later.
+
+Jimbo : Yippie! Okay, Lucia.
+
+Scott : This kid is going to be trouble one day... Let's just bring him home and then keep going...
+
+* You bring Jimbo home to the sewers and then move on. *
+
+// jump to 2_1_map
+
+// -------------------------------------
+
+// path: run
+
+Scott : Lucia, we're going to make a run for it. Be ready... On my mark...
+3
+2
+1
+RUN!
+
+Lucia : Ahhhh! Don't eat me werewolves!
+
+* You, Scott, and Lucia safely got away from the "werewolves". *
+
+// jump to 2_1_map
+
+// -------------------------------------
+
+// path: attack
+
+Scott : Take this!
+
+* Scott ferociously jumps into the bushes with his knife. *
+
+* Suddenly the whole forest grows eerily quiet. *
+
+Scott : ...
+[user]... Come over...
+
+* You slowly move your way towards Scott. *
+
+Scott : I made a big mistake... I don't think we're going to be okay...
+
+* You look down at him and see a fresh small corpse in his arms bleeding out. *
+
+Scott : H-he was not supposed to be here, [user]... Why was he there? It was supposed to be a wolf...
+
+Lucia : Are you guys okay?
+
+Scott : STAY BACK!
+
+* You stand over Scott in dreadful silence. Both of you trying to be so still as if to prevent time from moving forward. But you both know it's futile. *
+
+Lucia : Guys, this isn't funny... You're scaring me...
+
+* Lucia slowly makes her way over and freezes when she sees what's on Scott's lap. *
+
+Lucia : J-Jimbo...
+
+Scott : [user], what do we do next?
+
+// present choice: There's nothing we can do..., I don't know...
+
+Scott : ...
+
+Lucia : ...
+
+// present choice: ...
+
+// jump to ending

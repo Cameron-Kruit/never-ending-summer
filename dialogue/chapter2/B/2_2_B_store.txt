@@ -1,0 +1,31 @@
+// theme:  what the world is built on
+// you obtain fabric here
+
+Atlas : Household store. Neat. We'll probably find everything here.
+
+Scott : Don't count on it. We already took quite a lot from this place. There should still be some fabric around though.
+
+Atlas : Well, let's get to work. I can already see it at the end of this isle.
+
+* You and the others load your bags up with fabric. *
+
+Atlas : These supply runs are easy. Maybe we can give you Scouts more jobs.
+
+Scott : It being easy is kind of the point. We do this almost every night. There's only so very few of us in the sewers. We can't take too many risks.
+
+Atlas : Think about it though. I will propose a new role to Alexandria. "Builders". Eventually our immediate vicinity is going to run out of loot. If we would spend more time building things up above the ground, we could produce our own loot like they used to do in the old world.
+
+Scott : It's too dangerous. Even if you block out the sun, it would be way too hot to get anything productive done...
+
+Atlas : ...
+If the plants and animals have found a way to live above the ground with this sun, I'm 100% sure humanity can too.
+
+Scott : We just can't afford to risk it...
+
+Atlas : You'll see sooner rather than later, that we can't afford to not risk it... The sewers are keeping us safe for now, but humanity belongs on the surface. The amount of space and potential... We were spared for a reason. You think we lost the world, but actually it is the whole world which has been given to us.
+
+Scott : I hope you're right, Atlas. It's up to Alex though. Let's keep moving.
+
+// var went_to_store = 1
+
+// jump to 2_1_map

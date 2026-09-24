@@ -1,0 +1,49 @@
+// theme: knowledge and lack thereof
+// Jimbo split
+
+Artemis : Books...
+
+Scott : Yeah, I know... Not my cup of tea either. You sure we'll find something here, [user]?
+
+Artemis : Well, we're here anyway... Let's grab a book to bring home for the Students.
+
+Scott : WOW! Slow down! You're a Scout now? We have to conserve our energy for valuable loot. We can't just carry weight around nilly willy.
+
+Artemis : ... We only have to carry some thread and animal hides. A book or two won't hurt.
+
+Scott : It could be the difference between making it home before sunrise and having your arms melt off your body...
+
+Artemis : I-I'll just put these back then... I actually still remember people melting...
+
+Scott : I do too...
+
+Jimbo : I don't.
+
+Scott : Jimbo?!
+
+Artemis : You should go home, little one. It's really dangerous out here.
+
+Jimbo : Awww, but I wanna play with you guys! I always get left inside!
+
+Scott : And it's for a good reason, you little squirt. Didn't you hear us talking about people melting?
+
+Jimbo : Well I've never seen a person melt before.
+
+Scott : You should be grateful for that, kid. [user], you talk some sense into the kid!
+
+// present choice: let him hang out with us (jump to jimbo dead), let's go home Jimbo (continue)
+
+Scott : Well, you heard the boss. Let's go, Jimbo.
+
+Jimbo : Awwww... Okay...
+
+Artemis : Don't worry, Jimbo. We won't tell Alexandria. Let's play a little game and try to sneak back into the sewers without anyone spotting us.
+
+Jimbo : Yay!
+
+Scott : Man, this kid is going to be so much trouble when he grows up...
+
+* You and the rest bring Jimbo back to the sewers and move on. *
+
+// var went_to_library = 1
+// jump to 2_1_map

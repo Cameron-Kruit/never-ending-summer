@@ -1,0 +1,31 @@
+// theme: sketching out the present
+
+Lucia : This is...
+
+Scott : The school... Have you got any memories of this place?
+
+Lucia : Don't you? I think we all remember this place very well...
+
+Scott : Do you though? I know the stories of how we went to school before Armageddon, but I can't actually recall what sitting in class was like...
+
+Lucia : ...
+Being outside today... It makes me realize how none of my memories of the old world are vivid at all. It is as if reality only began after the world ended...
+
+Scott : It's because we were all so young... We're the same age, right? We were both seven when we went down into the sewers...
+
+Lucia : The strange thing is, it doesn't feel like it's been ten years down there. Seeing such a different environment tonight, all those memories in the sewers seem like they've merged together. Ten years now feel like the blink of an eye. It's like reality has opened up to me for the second time.
+
+Scott : It is beautiful up here. It is where we were meant to be as people after all... Don't let the tranquility of night fool you though, Lucia. The sewers are a better place for us now. Be thankful you're so pale. The sun of this world does not embrace us as gently as the moon.
+
+Lucia : I'm thankful. But I'm also thankful I've at least gotten to see the outside tonight.
+I also never knew you were so poetic, "Scout"! Maybe you should join a class with the Students sometime. We tackle plenty of poetry.
+
+Scott : L-let's look for some sharpies, [user].
+
+* You and Scott look around for a while and find some sharpies in a drawer. *
+
+Scott : Awesome, we found what we came here for. Let's keep going.
+
+// var went_to_school = 1
+
+// jump to 2_1_map

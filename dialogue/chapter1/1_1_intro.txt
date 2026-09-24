@@ -1,0 +1,62 @@
+Chapter : Never Ending Summer: the Resurrection of Halloween
+Chapter : Chapter 1: Requiem
+
+// black screen
+Home. A place of warmth, comfort, shelter, security. A quiet place like a gentle lullaby that hums you into a peaceful trance. However, sometimes the stale air and silence of home alienates us after being acclimated to the chaos of the outside world. The peace of your own home can fill you with guilt, if you're left with no choice but to disturb it.
+Such a night it was tonight... There are many of us sharing this home. We've just went to hell and brought back demons. Now what was supposed to be a cozy little space, has become a walled trap. No one could escape the bad news we were about to bring. Going from the outdoors to the indoors, reality sinks in as soon as you let yourself in.
+
+// art of sewers
+Alex : Scouts! You're back. You've been out for so long, we were all starting to get worried. What happened?
+
+Scott : ... Elder...
+
+Lucia : Where is my sister?
+
+Scott : Lucia... Doris she-...
+
+Lucia : ...
+
+Alex : ...
+
+Scott : The supply run was going fine as usual. We went a little far out near the edge of the boundaries of map 1; nothing crazy. The night was still young after all. We were at the old housing complex exploring for some interesting loot to bring back to everyone.
+We split up, [user] was checking the upstairs, I was checking the kitchen, Doris was checking the basement... Suddenly I could hear a loud crash or crumbling... When [user] and I went to check, the entrance to the basement... It just collapsed...
+
+Lucia : ...
+
+Scott : We tried shouting to see if Doris would respond, but we couldn't hear anything. We spent the rest of the night removing rubble trying to get through to the basement. However, we couldn't make it all the way through before we could hear more walls were starting to come down.
+We chose to take shelter in the building nextdoor, and the next second an entire side of the building just came down... A decade of scorching sun and neglect all just taking its toll that night...
+The rubble covered basement entrance was now exposed to the open air, but the sun was starting to come up, so we could neither keep digging or return home...
+We took refuge in a broom closet, made it through the day with what little water we had left, until night fell again.
+
+Lucia : You think Doris might still make it?
+
+Scott : Lucia, I'm sorry...
+
+Lucia : We should go out with all of us tonight and go through the rubble. We can still save her!
+
+Alex : Lucia, we are all very devastated right now, but as the Elder, I must ask you to make the right choice. We shall deal with our grief responsibly. Scott and [user] are severely dehydrated and have burns all over them.
+Without walls to shade the basement entrance, it practically became a giant oven... One person can't carry enough water to make it through an entire day in there. Lucia, Doris didn't make it...
+
+Scott : I'm sorry...
+
+Lucia : I'm sorry too... You're right Elder... I would've put us all into danger. I'm sure the guys did everything they could... And you must be as sad as I am right now, [user]... I know you and Doris were close.
+Either way, I'm glad you guys are safe. I will just... Go to my quarters... Good night.
+
+Alex : Poor girl... Things will be difficult for all of us. But we have work to do. It is my responsibility that this loss won't affect the survival of all of us who are left.
+
+Scott : Yes, Elder. We understand...
+
+Alex : Did you manage to retrieve anything on the supply run?
+
+Scott : I managed to find some food. Wild pumpkins, hard candy which seems to have melted and hardened many times, and a bucket of some candies which seem to have held shape surprisingly well. [user] show Alex what you found.
+
+// choice: present loot
+
+Alex : Wow! That is going to be a game changer for us all!
+
+Scott : You know what it is?
+
+Alex : Yes, you should show it to Chris. He will know what to do with this.
+Good job guys. Now take some time for yourselves... I know how hard it has been for you... I'll speak to the rest about what's happened...
+
+//jump to lore dump

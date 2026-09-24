@@ -1,0 +1,7 @@
+// art school
+
+* You and your party make your way into the school. A bitter sweet familiar place. *
+
+// check if path_choice = 1, then navigate to 2_2_A_school
+// check if path_choice = 2, then navigate to 2_2_B_school
+// check if path_choice = 3, then navigate to 2_2_C_school

@@ -1,0 +1,7 @@
+// art library
+
+* You and your party make your way to the library. Maybe there's knowledge to be gained here. *
+
+// check if path_choice = 1, then navigate to 2_2_A_library
+// check if path_choice = 2, then navigate to 2_2_B_library
+// check if path_choice = 3, then navigate to 2_2_C_library

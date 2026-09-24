@@ -1,0 +1,60 @@
+// theme: relationship between nature and the world
+// retrieve animal hide
+
+Artemis : Home sweet home.
+
+Scott : I would say the sewers are our home, but I honestly feel the same way. Something about being outside.
+
+Artemis : It's where we were made to be. The sewers were made by us for us. But we were not made for the sewers. I'd even go as far to say that the same applies to the ruins we see around us.
+
+Scott : But buildings and roads and structures and "stuff"... It is all so "human". Your thinking might be a bit too radical.
+
+Artemis : Maybe... But look how our structures have turned on us... Buildings collapsing around us, sealing us into tombs. Roads become like massive rivers of fire... Yet nature is still around, providing us food and materials. Which truly is our home?
+
+Scott : Nature can be harsh too though. There's bears, wolves, thorns, poison, earthquakes, floods... Even the sun itself is part of nature.
+
+Artemis : But so are we. Have we not adapted to this environment the same way the trees have adapted to our harsh sun?
+
+Scott : But then how can you argue against human structures if they are a natural consequence of a changing landscape and the relationship between it and the creatures living in it?
+
+Artemis : I understand the corner you're trying to drive me into. Your romanticism versus mine. But you can't deny we have an inherent understanding to differentiate between the artificial and the natural.
+
+Scott : I guess that's true. I'm just glad we can still have both. I wouldn't like to imagine a world without animals and plants, but neither would I like to imagine a world without shelter or just human "stuff".
+
+* The conversation dies down and the three of you wait around in silence before you can hear some rustling in the bushes. *
+
+Artemis : You two, be quiet, and be ready. Our costumes are here...
+
+* Artemis takes out her bow with her left hand, and four arrows with her right hand. She places three arrows from her right hand into her left with which she's holding the bow. She then nocks the remaining arrow. You and Scott pull out knives and stand ready. *
+
+Artemis : I'm going to let a few arrows loose... I'm bound to take out something... Be ready for anything that charges us if I miss.
+
+* Artemis takes aim at the noise and she send an arrow flying. A short sharp squeal can be heard. Something obviously didn't like that. *
+
+Artemis : Hit! Definitely dead.
+
+* Artemis impressively manages to shoot the remaining three arrows in rapid succession into the same direction. *
+
+Artemis : Three more hits! At least one dead. Be ready!
+
+* You brace yourselves for the possibility of the animals springing out of the bushes. *
+* And rightfully so because before Artemis has a chance to pull more arrows from her quiver, two wolves jump out of the bushes, both having arrows embedded into them. They charge towards you. *
+
+Scott : Wolves! [user]!
+
+// present choice: Kill the animals
+
+* You and Scott manage to manuever yourselves into an advantageous position to shove your knives into their flesh. As the wolves cry out, Artemis walks over, pulls the arrows out, and stabs them into their vital organs. Killing the wolves instantly and putting them out of their misery. *
+
+Artemis : Well... That's more than enough hide for our costumes, and we got plenty of meat for a week or so.
+
+Scott : Great... Wolf meat...
+
+Artemis : You know... I'm actually quite glad Armageddon happened... Despite the dangers, I don't think I would ever give up nights like these. I don't think I'd do well in the old world...
+
+Scott : You're one of a kind... I'm just glad we can still take baths after all of this...
+
+* You've acquired the animal hides, so you move on. *
+
+// var went_to_forest = 1
+// jump to 2_1_map

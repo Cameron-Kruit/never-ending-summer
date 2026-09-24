@@ -1,0 +1,191 @@
+// art of artisan's quarters
+
+Scott : Hey, Chris!
+
+Chris : Oh hey! It's the Scouts again.
+
+Jimbo : HEY!
+
+Scott : Guess what? We're going to throw a big Halloween party.
+
+Jimbo : What's Halloween?
+
+// present choices: there's gonna be lotsa candy, we're gonna wear costumes!
+
+// ----------------------------------
+
+// candy
+
+Scott : -and pumpkins with faces. And WE are going to make scary costumes for everyone!
+
+// ----------------------------------
+
+// costumes
+
+Scott : Yeah! WE are going to make them, and they have to be super scary. As scary as pumpkins with faces.
+
+// ----------------------------------
+
+// continue
+
+Jimbo : Pumpkins with faces...
+
+Chris : This sounds delightful. Right up our alley, isn't it gentlemen? Now the question is...
+What should we dress up as?
+
+// present choices: A werewolf, B vampire, C ghost
+// var path_choice = 1 (A), 2 (B), or 3 (C)
+
+// ----------------------------------
+
+// A
+Chris : Mmmm... Werewolves... Let me see... We are going to need some animal hides, and some more thread to make these costumes... Would probably be best for you Scouts to team up with a Hunter if you're gonna go out looking for animals. Go or no-go?
+
+//set var path_choice = 1 (A)
+// present choices: yes, no
+
+// ----------------------------------
+
+// B
+Chris : Vampires... I think I could pull it off. I'll need some more fabric, thread is running low too, and of course we need to come up with how we're going to pull off the teeth... I somehow feel like Atlas would know where to get some fake teeth... So we're gonna go with vampires?
+
+//set var path_choice = 2 (B)
+// present choices: yes, no
+
+// ----------------------------------
+
+// C
+Chris : Ghosts... We could totally do this. We need some extra fabric, some sharpies, and...
+
+Scott : What is it?
+
+Chris : Do you guys know what a ghost looks like?
+
+Scott : Not really...
+
+Chris : Okay, some extra fabric, some sharpies, and get me a picture of a ghost. I think I can pull it off. Maybe bring a Student with you. You're going to need some sort of genius to figure out what a ghost looks like... We're going for ghosts?
+
+//set var path_choice = 3 (C)
+// present choices: yes, no
+
+// ----------------------------------
+
+// continue
+
+Chris : Awesome! Let's do this guys!
+
+Scott : Yeah! Let's go!
+
+Jimbo : Yippie!
+
+Alex : Hey guys, you're in good spirits. Have you made a plan on the costumes already?
+
+Chris : Elder! Yeah we're almost all set here. We just need some extra supplies. Permission to send the scouts out?
+
+Alex : Well... What do you guys think? So soon... Are you ready for it?
+
+Jimbo : I don't know about these guys, but I'm ready!
+
+Scott : Slow down little man, the grown ups are talking.
+We're ready! The sewers need this right now.
+
+Alex : Then let's do this! What costumes are planning to make anyway?
+
+// var path_choice = 1 (A), 2 (B), or 3 (C)
+
+// ----------------------------------
+
+// A if var path_choice = 1
+
+Jimbo : We will be werewolves!
+
+Alex : Oh wow! Scary!
+
+Chris : We're going to need animal hides and thread.
+
+Alex : I see. Wait here for a second.
+
+...
+
+Alex : You're probably going to need a Hunter on this supply run. I've asked Artemis to join you.
+
+Artemis : Hey guys. I'll help you secure some hides. I can't wait to see the costumes you'll make from them, Chris.
+
+Chris : A- Artemis! Hi! I'd l-love to see you wear it...
+
+Jimbo : Chrissy? You are being weird...
+
+Scott : Hey Artemis, are you ready to leave right now? We only need two items, the night is still young, this should be a quick run.
+
+Artemis : I'm ready to go if you are.
+
+// jump to 2_1
+
+// ----------------------------------
+
+// B if var path_choice = 2
+
+Jimbo : VAMPIRES! Raaaah!
+
+Alex : Spooky!
+
+Scott : Do you know what a vampire is, Jimbo?
+
+Jimbo : No...
+
+Chris : We will need some fabric and thread... But I have no clue what we'll do for teeth...
+
+Alex : I bet Atlas would know something. He's pretty much been everywhere.
+
+Chris : I was thinking the same thing...
+
+Alex : Wait here, I'll go get him.
+
+...
+
+Atlas : My Scout and Artisan friends. I've heard I'm to join you on a supply run.
+
+Scott : Yeah, we're planning to make costumes for a party and we're going to need some obscure loot. Are you ready to go?
+
+Atlas : Sure. The night won't get any younger. Just try to keep up with me, Scouts.
+
+// jump to 2_1
+
+// ----------------------------------
+
+// C if var path_choice = 3
+
+Jimbo : BOOOOOO! Ghosts!
+
+Alex : Ghosts?
+
+Chris : Yeah... We're going to need at least some fabric and sharpies. I can improvise pretty much anything with that. There's an issue though... I don't think I've ever seen what a ghost looks like? Werewolves and vampires are pretty obvious from the stories about them, but ghosts...
+Are they like floating transparent people?
+
+Alex : I think they're supposed to be like souls without bodies...
+
+Scott : What do these look like?
+
+Alex : I-... I actually don't know... I don't remember ever having actually seen a ghost...
+
+Chris : ...
+
+Alex : Let's maybe pick another costume...
+
+Lucia : No wait!
+
+Alex : Lucia!
+
+Lucia : I want to help...
+
+Alex : You remember what a ghost looks like?
+
+Lucia : No, but I don't want you to give up on this... I want this party to be a success. And I want to help you. If you are working so hard to restore Halloween for Doris, I will help you restore our knowledge of ghosts. I think I should be able to find a picture of one if you take me to the library, Scouts.
+
+Scott : Are you sure you want to do this? When is the last time you've even been outside of the sewers? Elder, is this okay?
+
+Alex : Lucia... What do you say?
+
+Lucia : I'm ready. I'll do this. We are going to have a ghost party!
+
+// jump to 2_1

@@ -1,0 +1,40 @@
+// theme: knowledge and lack thereof
+
+Atlas : You guys are a mess at navigating... What do you expect to find here? Chris is good, but he can't make costumes from books...
+
+Scott : You know, [user], I'm kind of with Atlas on this one... What are we doing here?
+
+Atlas : Actually I take it back?
+
+Scott : You do?!
+
+Atlas : Yeah! Look at this book! It's an "atlas", just like me! Beautiful maps! I can't believe this one slipped under my nose all this time. I'm so taking this. Thanks for taking us here, [user].
+You guys know your geography?
+
+Scott : I think I know pretty much all maps by heart until map 5.
+
+Atlas : No, not our maps. I'm talking about world geography.
+
+Scott : Only the basics our teacher has taught us. I could point out Antarctica, but I wouldn't be able to tell you where all the stores are there.
+
+Atlas : I feel like you don't have a good grasp on how big this world actually is. But no one probably does... Just the amount of water on this planet, even people of the old world couldn't imagine.
+
+Scott : They had rockets and airplanes. Couldn't they just go to see for themselves?
+
+Atlas : Maybe. I would. Think about it though. Even in our community we have people who never go out, Hunters who go out but don't venture far, Scouts who only go where they have to...
+I'm the only Cartographer we have right now. No one likes to go too far from home all the time. It must've been like that in the old world for most people too.
+
+Scott : Except they had the freedom to go wherever they wanted without the sun killing them.
+
+Atlas : I guess you're right. There's no way to really know what they did. Either way I envy the world they had. Going anywhere, seeing anything, getting to build up your own world beyond just the sewers... I really wish I was old enough back when the teachers and the older kids went out on the expedition...
+
+Scott : They're probably all dead though. It's years and we've never heard anything from them.
+
+Atlas : In my dreams, I see what's beyond my maps. And I like to think they're there, building a better world for us. And if they aren't, I will get us there and do it for us.
+
+Scott : For now, let's focus on making it home before daytime.
+
+Atlas : Yeah, let's move on.
+
+// var went_to_library = 1
+// jump to 2_1_map

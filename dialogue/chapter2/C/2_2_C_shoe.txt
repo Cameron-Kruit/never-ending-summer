@@ -1,0 +1,22 @@
+// theme: relationship between humanity and the world
+
+Lucia : A shoe maker's shop... I guess this is the kind of place Chris would've live if the world was still normal...
+
+Scott : People wouldn't have lived in places like this.
+
+Lucia : It seems quite cozy though. I seems like it'd make an even better place to live than my own quarters in the sewers.
+
+Scott : Yeah, I agree but we never really find any beds in shops or stores... I don't think people lived where they worked. We don't really find too many specialized tools in houses either... Only common tools.
+
+Lucia : Why wouldn't people live where they work? It would make sense to me.
+
+Scott : I don't know... In general I feel like in the old world people take their space for granted more. But I also feel like I can't really blame them... They've never had to live in the sewers.
+
+Lucia : I guess that's fair... If you take the world for granted, you wouldn't expect space to run out anytime soon. But after you lose it all like we did, you start seeing scarcity in everything.
+
+Scott : We didn't lose it all. We still have people we need to protect and provide for.
+Either way, I don't think we'll find anything on ghosts here... Let's go somewhere else.
+
+// var went_to_shoe = 1
+
+// jump to 2_1_map

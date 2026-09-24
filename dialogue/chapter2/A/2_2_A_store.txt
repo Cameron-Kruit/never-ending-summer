@@ -1,0 +1,25 @@
+// theme:  what the world is built on
+
+Artemis : What are we doing here?
+
+Scott : I don't know. [user]?
+
+Artemis : This place is a dump. Look how much stuff there is.
+
+Scott : A dump?! This place is our lifeline! Most of the "stuff" in the sewers comes from here.
+
+Artemis : Yet there is so much of it left here. I don't even know what most of it does. People really thought they needed all of these things?
+
+Scott : Life was different back then.
+
+Artemis : We unquestionably have it so much harder, yet manage to get by with so much less. The sun is trying to kill us, and all we need is to hunt, forage, and go on a few supply runs every now and then. What could people in the old world possibly have needed all this stuff for?
+
+Scott : To be fair those supply runs are only possible because people from the old world made so much stuff. Also look around you. See how many dead lights they have... It already takes us so much "stuff" to keep a few of our own lights alive in the sewers. Imagine how much stuff people needed just to keep the lights on in big buildings like this.
+
+Artemis : I dislike lights... I'd rather be outside in the moonlight. Let's get out of here.
+
+Scott : Yeah. Let's go, [user].
+
+// var went_to_store = 1
+
+// jump to 2_1_map

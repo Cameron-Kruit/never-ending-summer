@@ -1,0 +1,22 @@
+Chapter : Chapter 2: Quest
+
+// map art
+
+Scott : Okay, let's go! 
+
+// jump point
+
+// check if path_choice = 1, and went_to_shoe = 1, and went_to_forest = 1, then navigate to wolf good ending
+// check if path_choice = 2, and went_to_shoe = 1, and went_to_store = 1, and went_to_dentist = 1, then navigate to vampire good ending
+// check if path_choice = 3, and went_to_store = 1, and went_to_school = 1, and went_to_library = 1, then navigate to ghost good ending
+
+// check locations_explored. If it's higher than 3, go to bad ending. Not all materials have been gathered.
+
+Scott : Let me pull up the map. [user], lead the way. Where are we going?
+Scott : Let me pull up the map. [user], lead the way. Where are we going? We need thread, fabric, and teeth.
+Scott : Let me pull up the map. [user], lead the way. Where are we going? We need thread, and animal hide.
+Scott : Let me pull up the map. [user], lead the way. Where are we going? We need fabric, sharpies, and info on ghosts.
+
+// present map and choices
+// var location_path 1 = forest, 2 = household store, 3 = school, 4 = library, 5 = shoe maker, 6 = Dentist, look at map
+// every path var locations_explored updates by 1

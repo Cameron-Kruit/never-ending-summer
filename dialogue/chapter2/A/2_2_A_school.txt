@@ -1,0 +1,27 @@
+// theme: sketching out the present
+
+Artemis : The school...
+
+Scott : Where it all started for us... Do you have memories about when were last here?
+
+Artemis : From the old times? ... I think I do.
+I remember mainly our teacher... Nothing specific, just him standing in front of all of us.
+
+Scott : Our teacher... Do you remember his name?
+
+Artemis : No... I've called him "Elder" for so long I forgot what he was called...
+
+Scott : Me too... You think people will remember our names? Or will it just be "Scout, Hunter, Student, Elder, Artisan, Cartographer"?
+
+Artemis : Doris...
+
+Scott : Doris...
+
+Artemis : She didn't go out as "Scout".
+
+Scott : You're right...
+Anyway, I'm not planning to let any of us "go out" again any time soon. Let's get going.
+
+// var went_to_school = 1
+
+// jump to 2_1_map

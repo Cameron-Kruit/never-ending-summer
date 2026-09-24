@@ -1,0 +1,34 @@
+// theme: relationship between humanity and the world
+// retrieve thread
+
+Artemis : The shoe maker's shop...
+
+Scott : I'm surprised you know this place. You wouldn't have come here often if they were still operational.
+
+Artemis : Not a big fan of shoes, but there's quite a few useful materials here for traps.
+Like this...
+
+* Artemis grabs a big spool of thread. *
+
+Scott : Hey that's just what we were looking for! [user], let's stock up!
+
+* You and Scott retrieve a bunch of thread. *
+
+Scott : Our costumes are going to be awesome! Are you excited, Artemis?
+
+Artemis : Yes...
+
+Scott : Come on, don't be so shy about it.
+
+Artemis : I kind of wish we could have the party outside. I'm glad that everyone is going to be having a good time, but could you imagine everyone outside again? Grilling over a campfire...
+
+Scott : Maybe one day... We can't risk us all being outside... If anything were to happen, there would be no one left.
+
+Artemis : Yeah...
+Maybe it's actually better like this. Humanity living under the ground. Enough building have already been built here. We'd just start taking up more space. Leaving nothing for the trees and animals.
+
+Scott : Not what I was thinking... But let's just leave it at that and keep moving.
+
+// var went_to_shoe = 1
+
+// jump to 2_1_map

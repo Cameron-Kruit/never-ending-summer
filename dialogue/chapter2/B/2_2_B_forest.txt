@@ -1,0 +1,20 @@
+// theme: relationship between nature and the world
+
+Atlas : Are you guys lost?
+
+Scott : Uhhh no! [user], wanted us to come here for a good reason! Right, [user]?
+...
+
+Atlas : All this effort I put into my maps, and you Scouts can't even read them right...
+
+Scott : Well your maps aren't 100% accurate anyway. Look this tree isn't even on your map.
+
+Atlas : It's a tree. It must've grown out of the ground while I wasn't in this exact spot. I was hoping that this location being marked as "forest" would've been obvious enough for you to assume there will be trees here and there.
+Well, apart from your loud mouth, at least it's a gentle night tonight... I don't mind coming here but we don't have time for this now, do we?
+
+Scott : Yeah, you're right.
+
+Atlas : [user], look if we're not going to the dentist, the shoe maker, or the household store, don't bother. Let's go.
+
+// var went_to_forest = 1
+// jump to 2_1_map

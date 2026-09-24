@@ -1,0 +1,38 @@
+// theme: relationship between humanity and the world
+// you obtain thread here.
+
+Atlas : Thread. Shoe maker. Yup, we're at the right place. Let's quickly find what we need and move on.
+
+Scott : You're not too shabby at supply runs, Atlas. Why not become a Scout?
+
+Atlas : Too conservative for me! Someone has to go beyond the bounds of our maps and see what's out there. I've already been here a gazillion times. I'd rather explore somewhere new.
+
+Scott : Okay, it's your neck you're risking, not mine.
+
+Atlas : It's not that bad being a Cartographer, you know? You get to see something new every day, you're not cramped up with the others in those tight sewers all the time... I've even grown to love seeing the sun, sometimes, you know?
+
+Scott : The sun? How can you love the sun?
+
+Atlas : I don't know. Maybe I haven't been burned badly enough yet, but the light just feel like home.
+
+Scott : Like a moth to a flame you are... I sure don't look forward to the day you don't come home... No one will be able to go all the way out to retrieve what'll be left of you...
+
+Atlas : That's fine... I wouldn't want to be buried anywhere I've already been.
+
+Scott : Just don't die.
+
+Atlas : Wasn't planning on it. You know, the longest I've been out was five nights and four days? I think I made it to another city even. Imagine we could build some construction to make this passage safer, some sort of carts, maybe even a rail system... The loot we could get from supply runs like this...
+
+Scott : Stop lying Atlas. These ideas are dangerous.
+
+Atlas : I'm not lying. I have the maps to prove it. Four days, and not a single burn. Ask Alex.
+
+Scott : Yeah yeah... Just look for some thread, will you?
+
+* The three of you manage to find spools of thread and bring it with you. *
+
+Atlas : We have what we came for now. Let's move on.
+
+// var went_to_shoe = 1
+
+// jump to 2_1_map

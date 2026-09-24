@@ -1,0 +1,94 @@
+// theme: knowledge and lack thereof
+
+Scott : *COUGH* Ugh... It's very dusty in here...
+
+Lucia : Wow... This place is amazing!
+There's like at least a hundred books in here! Why haven't you guys brought all of these down into the sewers? Imagine all the things we could learn from this!
+
+Scott : We kinda try to mainly focus on essentials, you know? Food, materials, tools... Also we try to not touch what we don't have to... If it hasn't burned up yet, it's already in a safe spot for if we need it later. Safer than in our wet grimy home at least...
+
+Lucia : Don't make excuses! We already have books in the sewers, which we take good care of! I bet you lazy bums just don't wanna carry these...
+
+Scott : Hehehe...
+Anyway... Let's look for some info on ghosts!
+
+* You, Scott, and Lucia look around for a while. *
+
+// present choice: look at section "I", look at section "W", look at section "O"
+
+// ---------------------------
+
+// section I
+
+Scott : What have you got there, [user]?
+"The Ice Age"... Strange title for a book... Can you imagine a world covered in ice? I mean I know we used to have winters, but this book seems to imply we had centuries of winter... Do you think this book is fiction, Lucia?
+
+Lucia : I'm not sure... I guess you could call our time a "Sun Age", so why couldn't there have been an ice age? Our teacher always said that if our hemisphere is stuck in summer, it must mean the other hemisphere is stuck in winter... I don't see why it wouldn't be possible.
+
+Scott : Seems like this world has never been gentle on humanity. Let's keep looking for ghosts.
+
+// jump to section O
+
+// ---------------------------
+
+// section W
+
+Lucia : You found something, [user]?
+"World War I"? The "one" seems to imply there's at least a "World War II" as well...
+
+Scott : What's a "war"?
+
+Lucia : It's when hundreds of thousands of people fight to kill each other.
+
+Scott : What? Why would they do this?
+
+Lucia : Politics.
+
+Scott : "Politics"? What's that?
+
+Lucia : I'm actually not quite sure... Our teacher explained it to us... But I was a bit too young to get it... I've discussed it with Alexandria a few times, but I don't think she gets it either...
+
+Scott : Maybe it's better we stay away from "politics" then... If it can cause "war", we're probably better off without it... For now I'd rather look for information on ghosts.
+
+// jump to section O
+
+// ---------------------------
+
+// section O
+
+* After looking around, you found a thick ominous book. *
+
+Scott : WOW! Lucia, look what [user] found!
+
+Lucia : "Occultism - bestiary, magic spells, sigils, and more"...
+
+Scott : What does it mean?
+
+Lucia : Well it means... Well... I'm not sure about most of this actually... I know what "magic" means, but the rest... I'll browse through it real quick...
+
+* Lucia flips through the book's pages and gains a realization of what she's holding. *
+
+Lucia : [user], you are amazing! Do you know what this is? This book is an encyclopedia on spooky creatures and rituals no one in the sewers will have ever heard about!
+
+Scott : No way! Does it have anything on ghosts?
+
+Lucia : Based on the index, there's enough monsters in here to get us through at least a hundred Halloweens.
+
+Scott : That's great! Let's see some ghosts!
+
+Lucia : Okay, okay... "G", "ghost", "page 50"... Oh...
+
+Scott : Oh... That's it?
+
+Lucia : So this is what a soul of a dead person looks like...
+
+Scott : It just looks like a piece of fabric with a freaky face on it...
+
+Lucia : Hahahaha! This is amazing. If Doris was here to see that we were all going to dress up like this, she'd be cracking up.
+
+Scott : This is sure to surprise everyone down in the sewers. Nothing to get everyone's spirits up like dressing like a bunch of bedsheet spirits.
+We have what we need now. Let's get out of this place and move on.
+
+// var went_to_library = 1
+
+// jump to 2_1_map

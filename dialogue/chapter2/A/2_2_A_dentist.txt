@@ -1,0 +1,24 @@
+// theme: the past is strange to us, but was normal to those living in it
+
+Artemis : The dentist... There's nothing for us here...
+
+Scott : We haven't even started looking around yet.
+
+Artemis : We need threads and animal hides. Why would it be here?
+
+Scott : You have a point... Why did we come here again, [user]?
+
+Artemis : Such a weird place... As a Hunter, I pretty much never come here.
+
+Scott : Well as Scouts... Neither do we actually... There's lotsa stuff here, it's just that no one ever needs it.
+
+Artemis : So much stuff... People must have used to think all of it was all so important to their way of life... They would have never imagined that the plants would take it all back.
+
+Scott : Who are we to say? Maybe they knew, maybe they didn't. We are people too. Sometimes it's about making the best of what you have in the moment. Even if you know you will one day have to give everything you've built back to the earth.
+This is our reality. Who's to say it wasn't theirs?
+
+Artemis : ...
+Let's move on and find some animals.
+
+// var went_to_dentist = 1
+// jump to 2_1_map

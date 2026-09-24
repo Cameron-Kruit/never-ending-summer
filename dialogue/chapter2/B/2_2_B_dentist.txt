@@ -1,0 +1,35 @@
+// theme: the past is strange to us, but was normal to those living in it
+// you obtain teeth here
+
+Atlas : Okay guys. The dentist's office. We're sure to find some teeth or other stuff here we can use for our vampire costumes! Well Scouts, do your thing. Scout for supplies.
+
+* You and Scott look around while Atlas seems preoccupied inspecting a collapsed section of building while correcting one of his maps. *
+
+Scott : It would be faster if you helped us out.
+
+Atlas : Okay, okay. I just had to update something real quick.
+
+* The three of you look around before you run into a drawer full of fake plastic vampire teeth. *
+
+Scott : Wow, nice find. This is perfect.
+
+Atlas : People really made everything back in the day.
+
+Scott : This should be enough teeth for everyone to dress up and have fun. Doris would think this is the silliest stuff ever.
+
+Atlas : Or the spookiest!
+
+Scott : Doris definitely wasn't one to spook easily... Right, [user]? She used to hide around and scare us all the time on our supply runs...
+
+Atlas : It's hard to believe I spoke to her just two days ago and now she's gone... She was asking me for an updated version of map 2... I told her "what do I get for it?"...
+
+Scott : ...
+
+Atlas : She told me "I'll find you something good on our next run". I'm sure everyone liked her... I just hope she didn't go into that basement to find me "something good"...
+
+Scott : Don't worry, Atlas. It wasn't your fault. This is just the world we live in now. We need to be sharp at all times. I'm sad too, but as long as we're out here, we can't have our head anywhere but here and now.
+
+Atlas : You're right. Let's keep moving.
+
+// var went_to_dentist = 1
+// jump to 2_1_map

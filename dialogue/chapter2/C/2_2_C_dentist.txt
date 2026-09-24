@@ -1,0 +1,24 @@
+// theme: the past is strange to us, but was normal to those living in it
+
+Lucia : A dentists office... Quite fascinating...
+
+Scott : You think we'll find anything on ghosts here, [user]?
+
+Lucia : You know, even with the faint memories I have of our time before the sewers... This place seems quite amazing to me.
+
+Scott : How so?
+
+Lucia : Don't you think it's fascinating how just decades ago this place had meaning to people? A meaning so obvious most weren't even aware of it. Yet to us it's a backdrop or even an obstacle between us and loot.
+
+Scott : I've never thought of it that way... All I think about is "can we use this" and "is this worth carrying home"...
+
+Lucia : If I were a Scout, I'd be asking "what did they use this for" and just reconstruct the past all night.
+
+Scott : If you were a Scout, you wouldn't have all night. The past is gone. People never had to fear the sun like we do. So let's not stick around for too long.
+
+Lucia : I guess you're right...
+
+* You found nothing useful and decided to move on. *
+
+// var went_to_dentist = 1
+// jump to 2_1_map

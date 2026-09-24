@@ -70,12 +70,14 @@ thread: relationship between humanity and the world
 fabric: what the world is built on
 data: knowledge and lack thereof
 sharpies: sketching out the present
+teeth: the past is strange to us, but was normal to those living in it
 
 Wolf - hide: explore lore of how nature adapted to the world, thread: elaborate on the lifestyle of the sewer society from the perspective of dread of rebuilding humanity, Jimbo sneaks off to join on the hunt and ends up dying somehow(?) showing the cold danger of the world
 
 Vampire - fabric: exploring the idea of what's beyond the boundaries, thread: elaborate on the lifestyle of the sewer society from the perspective of hope and potential of rebuilding humanity, teeth: explore on the mystery of the world, Jimbo sneaks off on the thread mission and gets inspired to become a cartographer showing the potential of the world
 
 Ghost - data: elaborate on what the sewer society knows and doesn't know about the world, fabric: exploring the idea of building within the boundaries, sharpies: elaborate on the roles in sewer society, Jimbo sneaks off to join on the data mission and gets interested in the old world and gets inspired to become a better student
+^^^ I end up deviating from this a lot as I worked out the character dynamics more
 
 Chapter 3:
 Work out the endings for each outfit considering the bond we just built with the new character
@@ -122,6 +124,6 @@ Alex(andria) - female - 20yo - Elder - pale - responsible adult, some memories o
 
 Jimbo - male - 5yo - just a kid - pale - born to one of the dead "older kids", adopted by Alexandria. Sneaks off to join on adventures cause he looks up to the scouts and want to fill the shows of Adam.
 
-Doris - female - 18yo - Scout - tan - DEAD
+Doris - female - 19yo - Scout - tan - DEAD, Lucia's older sister
 
 Lore accurately there are 3 more characters who are not relevant to the story. I'll assume these are 1 more student, 1 more artisan, 1 more hunter

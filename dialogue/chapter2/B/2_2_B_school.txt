@@ -1,0 +1,20 @@
+// theme: sketching out the present
+
+Atlas : Aaaand we're at the school now. What are we doing here, [user]?
+
+Scott : Hey Atlas, you're one of the youngest kids. Do you remember anything about school at all?
+
+Atlas : Yeah, a bunch. I was only five or six though. I remember playing with toys. I remember the heat, the flames, the screaming... I remember seeing my toys melt and thinking they were the ones screaming... But now I know of course toys don't scream, and I'm starting to wonder if these memories are of toys at all...
+There's no bones under the plastic after all...
+
+Scott : ...
+
+Atlas : ...
+
+Scott : Let's move on. There's nothing here.
+
+Atlas : Yeah, let's go.
+
+// var went_to_school = 1
+
+// jump to 2_1_map

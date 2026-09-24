@@ -1,0 +1,178 @@
+// chapter specific variables: 1_3_seen_chris, 1_3_seen_lucia, 1_3_seen_atlas, 1_3_relaxed
+// 1_3_seen_chris after seeing chris, the choice to see alex becomes available and you can progress the story
+// remove choices after them being picked
+// art of sewers
+// present choices: see Chris, see Lucia, see Atlas, see Alex, relax
+
+// ----------------------------------
+
+// PATH CHOICE: See Lucia
+Scott : Lucia...
+
+Lucia : Hi, Scott, [user]...
+
+Scott : How are you holding up?
+
+Lucia : Probably not much better than you two... But Alexandria was right... We have to act wisely.
+
+Scott : Yes. I'm grateful she is like this.
+
+Lucia : It must be hard...
+
+Scott : It's not her fault... It's ours...
+
+Lucia : You can't blame anyone for it... The outside world is just cruel in ways a Student like me can hardly imagine... I pretty sure Alexandria is blaming herself now too. She feels responsible for all of us as the Elder. Even though she's only a year older than Doris...
+
+Scott : You're probably right...
+
+// 1_3_seen_lucia + 1
+// return to choice at start of chapter
+
+// ----------------------------------
+
+// PATH CHOICE: See Atlas
+
+Scott : Hey, Atlas.
+
+Atlas : Oh, Scott, [user]... I heard what happened out there. Are you guys okay?
+
+Scott : We'll be fine...
+
+Atlas : I'm sorry about Doris. I'll miss her.
+
+Scott : We all will...
+
+Atlas : Where did it happen?
+
+Scott : That's what I wanted to talk to you about. You'll have to update map 1. This building in the old housing complex needs to be marked unstable.
+
+Atlas : [user]... I'll rename this place after Doris. I'm not quite sure if it's the right thing to say, but it's beautiful in a way that while most of us will end up in a hole in the ground, she got an entire tomb to herself.
+
+Scott : ...
+
+// 1_3_seen_atlas + 1
+// return to choice at start of chapter
+
+// ----------------------------------
+
+// PATH CHOICE: relax
+
+* You and Scott take place in a stream of water. *
+
+Scott : I get it, you know... Why you've been so quiet.
+The three of us have always been together, but I know you and Doris were especially close. No one is going to push you to get over this quickly. We've all seen a lot of death, but it never makes the next one easier...
+Take as much time as you need, [user]... I'll take care of us. I promise.
+
+...
+
+Scott : How are your burns?
+
+// choices: they're fine, I'll manage
+
+Scott : Good.
+As Scouts, we might not always be aware of it, but we're really blessed to have these sewers.
+
+* You and Scott sit together in silence for a while. Feeling the cold clear sewer water slowly numb your reddened skin. *
+
+// 1_3_relaxed + 1
+// return to choice at start of chapter
+
+// ----------------------------------
+
+// PATH CHOICE: See Chris
+
+// artisan's quarters art
+
+Scott : Chris!
+
+Chris : Oh my! How good to see you're both safe, Scott, [user]!
+
+Scott : Yeah...
+
+Chris : Alexandria told me about Doris... [user], are you okay?
+
+// present choice: I will be, I have to be
+
+Chris : I'm sure this is exactly the kind of strength she'd want us to show...
+What brings you guys here right now? Shouldn't you be resting?
+
+// present choice: present loot
+
+Chris : OH WOW! This is...
+
+Scott : What is it? Alex said you'd know what to do with it.
+
+Chris : This is a manual sewing machine... You have no clue how big this is. With this I can sew up clothing ten times faster than I could by hand. And it doesn't even eat into our electricity because it's operated by this wheel here.
+
+Scott : Have you seen one of these before?
+
+Chris : No, but I can tell how it works just by looking at it.
+
+Scott : Impressive. It seems it was worth carrying this thing along all this way. I figured it was some Artisan tool. I could totally see it too...
+
+Chris : This is huge. Thank you, Scott and [user]. When we find more linen, I can make us some more interesting clothing now and still have time left to do even more awesome things. Just imagine all the clothing we'll have!
+
+Scott : I'm fine with just my tunic. I can't imagine being out there in the heat with a bunch of fabric on me... You think you could add extra pouches to a bag with this think?
+
+Chris : As many as you'd like, and in the blink of an eye. You'll see. This is a game changer.
+
+// 1_3_seen_chris + 1
+// return to choice at start of chapter
+
+// ----------------------------------
+
+// PATH CHOICE: See Alex
+
+// elder's quarters art
+
+Alex : Hey guys. Have you given the sewing machine to Chris?
+
+Scott : Yeah. He seems really excited about it. If it means he'll pick up my repair requests faster, I guess I am too.
+
+Jimbo : What's a sewing machine?
+
+Alex : Jimbo, go to Chris and ask him to show you. I will need some time alone with the Scouts.
+
+Jimbo : Okay!
+
+...
+
+Alex : I've been thinking about Doris...
+
+Scott : ...
+
+Alex : It will be difficult for us to hold a ceremony without a body. No burial at the school grounds, no sending her down the stream in the sewers... We can't risk taking everyone to the housing complex to say goodbye.
+
+Scott : We have to do something though... Everyone's spirits will be stuck in grief.
+
+Alex : Do you know what month it is Scouts? It's October. Back in the old world, we had a celebration during this time. Can you remember it?
+
+Scott : Not exactly... I might have been a little to young to recall it now.
+
+Alex : Every October we used to celebrate "Halloween". It was not exactly a cheerful celebration. I don't remember all the reasons behind it, but it was a time of fear, monsters, spooky rituals... But despite this darkness, people chose to be joyful about it, sharing candy, and actively seeking out the spookiness.
+It might be a good thing for all of us, to cope with our loss. Finding joy in fear. It is a statement of power and control. We may have lost someone dear to us, but we won't give up those still around us.
+
+Scott : A celebration to honor Doris' memory... To show her that her sacrifice will not break us down, but will build us up.
+
+// present choice: It's what she would've wanted..., Doris always was a positive force...
+
+Alex : Yes... When faced with death, we should celebrate. Rather than be scared of the dark, we shall face the terrors of this world and our grief willingly and choose to sing and eat candy. Not to forget those who died, but to satisfy their hopes for us. This is what Halloween shall be for us.
+
+Scott : So how do we celebrate halloween? We just eat candy?
+
+Alex : Hmmm... Well... Uhhh people used to dress up as monsters... There was candy... OH! And pumpkins with faces! Oh it's coming back to me! There used to be parties, people going around doors in costumes, tricks, treats, spookiness, and it was celebrated at night!
+
+Scott : Pumpkins with faces? That's wild! A party at night seems right up our alley. We're nocturnal already anyway.
+
+Alex : This is perfect. You guys brought back candies and pumpkins! We could totally pull this Halloween party off. We only need costumes. I think Chris could make easy work of this with his new sewing machine. I'll gather some kids around to help with the preparations.
+These pumpkins are not gonna grow faces by themselves you know! You guys should check if Chris needs any materials for the costumes.
+
+Scott : Sounds like a plan.
+
+Alex : I'm sorry to have you guys this active this soon...
+
+// present choice: it's okay, we understand, it's for Doris...
+
+Scott : Yeah, we will do what we have to. Not just for Doris, but for everyone in the sewers...
+
+// jump to next chapter
