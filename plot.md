@@ -1,3 +1,6 @@
+ANY TYPOS IN TEXT HERE WILL BE RESOLVED ON THE VNW PLATFORM
+
+
 Game idea: you pick locations for your costume resources. Every time your time counter is + 1
 there is one night till halloween so if you don't make it you get an ending without celebration
 
